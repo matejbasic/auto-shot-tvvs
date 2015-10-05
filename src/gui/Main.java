@@ -77,6 +77,7 @@ public class Main extends Application {
             stage.setResizable(false);
             //gotoStartWindow();
             //primaryStage.show();
+            sdfsadfsd
         } catch (Exception ex) {
             logSevereAndExit(ex);
         }
