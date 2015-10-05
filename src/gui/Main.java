@@ -75,9 +75,8 @@ public class Main extends Application {
             stage = primaryStage;
             stage.setTitle(mainWindowTitle);
             stage.setResizable(false);
-            //gotoStartWindow();
-            //primaryStage.show();
-            sdfsadfsd
+            gotoStartWindow();
+            primaryStage.show();
         } catch (Exception ex) {
             logSevereAndExit(ex);
         }
